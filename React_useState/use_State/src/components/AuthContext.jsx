@@ -3,8 +3,10 @@ export const AuthContext=createContext()
 
 function AuthProvider({children}) {
     const[user,setUser]=useState(null);
-    const[loading,setLoading]=useState(true);
-
+    const[users,setUsers]=useState(true);
+    useEffect(()=>{
+        fetch('/data/users.json')
+    },[])
 
     return<>
     </>
