@@ -1,2 +1,4 @@
 import { useEffect,useState } from "react";
-const [user,setUser]=useState(null);
+const [user,setUser]=useState(null)
+useEffect(()=>{
+},[])
