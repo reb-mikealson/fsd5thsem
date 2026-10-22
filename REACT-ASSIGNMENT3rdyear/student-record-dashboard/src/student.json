@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE001",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 2,
+    "name": "Ananya Verma",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE002",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 3,
+    "name": "Aditya Singh",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE003",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 4,
+    "name": "Priya Gupta",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE004",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 5,
+    "name": "Rohan Mishra",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE005",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Yadav",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE006",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 7,
+    "name": "Karan Patel",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE007",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 8,
+    "name": "Ishita Agarwal",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE008",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 9,
+    "name": "Rahul Chauhan",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE009",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 10,
+    "name": "Meera Joshi",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE010",
+    "section": "A",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 11,
+    "name": "Arjun Kumar",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE011",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 12,
+    "name": "Kavya Saxena",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE012",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 13,
+    "name": "Vihaan Malhotra",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE013",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 14,
+    "name": "Riya Tiwari",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE014",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 15,
+    "name": "Devansh Jain",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE015",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 16,
+    "name": "Simran Kaur",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE016",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 17,
+    "name": "Ayush Srivastava",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE017",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 18,
+    "name": "Nisha Tomar",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE018",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 19,
+    "name": "Harsh Vardhan",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE019",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 20,
+    "name": "Pooja Rawat",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE020",
+    "section": "B",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 21,
+    "name": "Siddharth Mehta",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE021",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 22,
+    "name": "Aditi Bansal",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE022",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 23,
+    "name": "Manav Arora",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE023",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 24,
+    "name": "Tanvi Kapoor",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE024",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 25,
+    "name": "Yash Thakur",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE025",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 26,
+    "name": "Diya Sinha",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE026",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 27,
+    "name": "Krish Agarwal",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE027",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 28,
+    "name": "Sanya Goyal",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE028",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 29,
+    "name": "Mohit Rana",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE029",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 30,
+    "name": "Shreya Pandey",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE030",
+    "section": "C",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 31,
+    "name": "Kabir Khanna",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE031",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 32,
+    "name": "Myra Chawla",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE032",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 33,
+    "name": "Aman Dixit",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE033",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 34,
+    "name": "Tanya Bhardwaj",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE034",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 35,
+    "name": "Reyansh Goel",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE035",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 36,
+    "name": "Muskan Ali",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE036",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 37,
+    "name": "Parth Bhatia",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE037",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 38,
+    "name": "Anushka Tyagi",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE038",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 39,
+    "name": "Dhruv Bhatnagar",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE039",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 40,
+    "name": "Palak Sharma",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE040",
+    "section": "D",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 41,
+    "name": "Rudra Chauhan",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE041",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 42,
+    "name": "Ira Mittal",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE042",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 43,
+    "name": "Om Prakash",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE043",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 44,
+    "name": "Kritika Sharma",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE044",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 45,
+    "name": "Samarth Jain",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE045",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  },
+  {
+    "id": 46,
+    "name": "Navya Mishra",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE046",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Data Structures"
+  },
+  {
+    "id": 47,
+    "name": "Lakshya Verma",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE047",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Database Management"
+  },
+  {
+    "id": 48,
+    "name": "Ayesha Khan",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE048",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Operating Systems"
+  },
+  {
+    "id": 49,
+    "name": "Vivaan Saxena",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE049",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Computer Networks"
+  },
+  {
+    "id": 50,
+    "name": "Kiara Malhotra",
+    "class": "B.Tech CSE",
+    "rollNumber": "CSE050",
+    "section": "E",
+    "batch": "2024-2028",
+    "subject": "Software Engineering"
+  }
+]
